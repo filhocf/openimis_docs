@@ -418,6 +418,8 @@ Number
     | the claim is of the category *Visit*                                  |
     +-----------------------------------------------------------------------+
 
+.. _product_distribution:
+
 Pooling Management
 """"""""""""""""""
 

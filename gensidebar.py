@@ -82,10 +82,10 @@ def generate_sidebar(conf, conf_api):
 
     toctree("AR IMIS user documentation")
 
-    write("main","Concept","/ar_manual/concept")
-    write("main","Dimensions","/ar_manual/dimensions")
-    write("main","Facts","/ar_manual/facts")
-    write("main","Access Data","/ar_manual/access_data")  
+    write("main","Concept","/a_r_manual/concept")
+    write("main","Dimensions","/a_r_manual/dimensions")
+    write("main","Facts","/a_r_manual/facts")
+    write("main","Access Data","/a_r_manual/access_data")  
     endl()
     endl()
     toctree("Installation documentation")
@@ -99,13 +99,13 @@ def generate_sidebar(conf, conf_api):
     endl()
 
     toctree("AR IMIS installation documentation")
-    write("Install","prerequisites","/ar_install/prerequisites")
-    write("Install","ar_database_install","/ar_install/ar_database_install")
-    write("Install","ar_ssis_install","/ar_install/ar_ssis_install")
-    write("Install","r_ssas_install","/ar_install/ar_ssas_install")
-    write("Install","ar_iis_install","/ar_install/ar_iis_install")
-    write("Install","ar_ssrs_start","/ar_install/ar_ssrs_install")
-    write("Install","ar_iis_start","/ar_install/ar_ssis_start")
+    write("Install","prerequisites","/a_r_install/prerequisites")
+    write("Install","a_r_database_install","/a_r_install/a_r_database_install")
+    write("Install","a_r_ssis_install","/a_r_install/a_r_ssis_install")
+    write("Install","r_ssas_install","/a_r_install/a_r_ssas_install")
+    write("Install","a_r_iis_install","/a_r_install/a_r_iis_install")
+    write("Install","a_r_ssrs_start","/a_r_install/a_r_ssrs_install")
+    write("Install","a_r_iis_start","/a_r_install/a_r_ssis_start")
     endl()
     endl() """
 
